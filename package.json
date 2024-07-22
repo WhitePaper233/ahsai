@@ -1,5 +1,5 @@
 {
-  "name": "@asuna/koishi-plugin-ahsai",
+  "name": "@asuna-bot/koishi-plugin-ahsai",
   "description": "Ahsai语音合成",
   "version": "0.0.1",
   "main": "lib/index.js",
